@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:white;
+    font-family:'Segoe UI',sans-serif;
+}
+
+.hero{
+    background: white;
+    color:black;
+    text-align:center;
+    padding:30px 20px;
+}
+
+.hero h1{
+    font-size:45px;
+    font-weight:bold;
+}
+
+.hero p{
+    font-size:20px;
+    margin-top:10px;
+}
+
+.footer{
+    background:#D8CCBD;
+    color:black;
+    text-align:center;
+    padding:30px;
+    margin-top:50px;
+}
+
+.footer h2{
+    margin-bottom:10px;
+}

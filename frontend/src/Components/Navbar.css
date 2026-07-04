@@ -1,0 +1,45 @@
+.custom-navbar{
+    background:#f7e7cb;
+    border-bottom:1px solid #D8CCBD;
+    padding:5px 0;
+    box-shadow:0 2px 10px rgba(0,0,0,0.08);
+}
+
+.logo{
+    height:150px;
+    width:auto;
+}
+
+.navbar-nav .nav-link{
+    color:#3B2F2F !important;
+    font-size:16px;
+    font-weight:600;
+    margin-left:18px;
+    transition:0.3s;
+}
+
+.navbar-nav .nav-link:hover{
+    color:#A67C52 !important;
+}
+
+.dropdown-menu{
+    border:none;
+    border-radius:10px;
+    box-shadow:0 5px 20px rgba(0,0,0,0.1);
+}
+
+.dropdown-item:hover{
+    background:#F5F0E8;
+    color:#A67C52;
+}
+
+.cart-link{
+    display:flex !important;
+    align-items:center;
+    gap:8px;
+    font-weight:bold;
+}
+
+.cart-text{
+    margin-left:5px;
+}

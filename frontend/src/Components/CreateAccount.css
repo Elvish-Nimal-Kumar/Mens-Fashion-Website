@@ -1,0 +1,48 @@
+.create-account-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+
+    /* Remove extra box */
+    background: transparent;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.create-account-card {
+    background: white;
+    width: 720px;
+    max-width: 100%;
+    margin: auto;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+.create-account-card h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.create-account-card input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.create-account-card button {
+    width: 100%;
+    padding: 12px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.create-account-card button:hover {
+    opacity: 0.9;
+}

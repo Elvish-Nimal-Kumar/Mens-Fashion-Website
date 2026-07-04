@@ -1,0 +1,42 @@
+.contact-container{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    margin:50px 0;
+}
+
+.contact-card{
+    width:800px;
+    background:white;
+    padding:40px;
+    border-radius:15px;
+    box-shadow:0 5px 20px rgba(0,0,0,0.1);
+}
+
+.contact-card h2{
+    text-align:center;
+    margin-bottom:30px;
+}
+
+.contact-card input,
+.contact-card textarea{
+    width:100%;
+    padding:12px;
+    margin-bottom:20px;
+    border:1px solid #ddd;
+    border-radius:5px;
+}
+
+.contact-card button{
+    width:100%;
+    padding:12px;
+    background:black;
+    color:white;
+    border:none;
+    border-radius:5px;
+    font-size:16px;
+}
+
+.contact-card button:hover{
+    opacity:0.9;
+}

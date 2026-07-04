@@ -1,0 +1,13 @@
+.cart-title{
+    text-align:center;
+    margin-bottom:30px;
+    font-weight:bold;
+}
+
+.cart-card{
+    background:#fff;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:10px;
+    box-shadow:0 2px 10px rgba(0,0,0,0.1);
+}
